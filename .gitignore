@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Builds de producción
+dist/
+.astro/
+
+# Variables de entorno
+.env
+.env.*
+
+# Archivos del sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
